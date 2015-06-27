@@ -1,10 +1,9 @@
 {
   "name": "hg-commit",
   "main": "./lib/hg-commit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple tool for committing to your default Hg repo from atom.io.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "hg-commit:commit"
   },
